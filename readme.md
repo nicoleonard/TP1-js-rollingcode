@@ -2,7 +2,7 @@
 En este proyecto se realizan diversos ejercicios practicos de javascript.
 
 ## Ejercicios resueltos
--Ejercicios del 1 al 5
+-Ejercicios del 1 al 10
 
 ### Como probar los ejercicios del repositorio?
 - Modificar el archivo index.html  y cambiar el script del ejercicio X que se ejecuta en el body
